@@ -18,7 +18,7 @@ By using SSD, we only need to take one single shot to detect multiple objects wi
 ####
 🕸Download a pre-trained model to apply transfer learning
 ####
-🕸Download generate_tfrecords.py script
+🕸Download generate_tfrecords.py script.
 ####
 
 
